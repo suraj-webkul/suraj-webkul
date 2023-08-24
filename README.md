@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/suraj-kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suraj-kashyap" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/suraj-kashyap](https://stackoverflow.com/users/22264491/suraj-kashyap)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suraj-kashyap" height="30" width="40" /></a>
 <a href="https://fb.com/__hadd_hai_suraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__hadd_hai_suraj" height="30" width="40" /></a>
 <a href="https://instagram.com/___suraj.devotee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___suraj.devotee" height="30" width="40" /></a>
 </p>
