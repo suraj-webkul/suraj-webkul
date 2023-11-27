@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Bagisto](https://github.com/bagisto/bagisto)
 
-- 🌱 I’m currently learning **Laravel, Vue.js**
+- 🌱 I’m currently learning **Laravel, Vue.js, Nuxt.js, React.js, Next.js**
 
-- 💬 Ask me about **Laravel, Vue.js, Nuxt.js, Tailwind**
+- 💬 Ask me about **Laravel, Nuxt.js, Next.js, Tailwind**
 
 - 📫 How to reach me **suraj.kashyap370@webkul.in**
 
