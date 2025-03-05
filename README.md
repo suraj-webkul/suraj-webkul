@@ -49,7 +49,3 @@ Passionate full-stack developer with 3+ years of experience in crafting innovati
 - Experienced in both Java Spring Boot and PHP Laravel ecosystems
 - Passionate about writing clean, maintainable, and efficient code
 - Continuous learner with a keen interest in emerging technologies
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
