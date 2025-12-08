@@ -4,7 +4,7 @@
 Passionate full-stack developer with 3.5+ years of experience in crafting innovative web applications and robust backend systems. Specializing in modern web technologies, I transform complex challenges into elegant, efficient solutions.
 
 ### 🚀 Professional Profile
-- **Experience:** 3.5+ years in software development
+- **Experience:** 4.5+ years in software development
 - **Expertise:** Web & Application Development
 - **Focus:** Creating scalable, performant digital solutions
 
