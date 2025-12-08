@@ -1,7 +1,7 @@
 # Suraj Kashyap | Full Stack Developer 💻
 
 ## About Me
-Passionate full-stack developer with 3.5+ years of experience in crafting innovative web applications and robust backend systems. Specializing in modern web technologies, I transform complex challenges into elegant, efficient solutions.
+Passionate full-stack developer with 4.5+ years of experience in crafting innovative web applications and robust backend systems. Specializing in modern web technologies, I transform complex challenges into elegant, efficient solutions.
 
 ### 🚀 Professional Profile
 - **Experience:** 4.5+ years in software development
