@@ -1,9 +1,9 @@
 # Suraj Kashyap | Full Stack Developer 💻
 ## About Me
-Full Stack Developer with 5+ years of hands-on experience designing, developing, and deploying end-to-end web applications across diverse domains. Proficient in building scalable frontend interfaces with React, Next.js, and Vue.js, backed by robust server-side architectures using Laravel, Spring Boot, Node.js, and Express.js. Adept at database design with MySQL and performance optimization using Redis. Currently expanding into AI agent development, leveraging tools like Codex and Claude to build intelligent, automated workflows. Committed to writing clean, well-tested code and delivering solutions that drive real business impact.
+Full Stack Developer with 4.5+ years of hands-on experience designing, developing, and deploying end-to-end web applications across diverse domains. Proficient in building scalable frontend interfaces with React, Next.js, and Vue.js, backed by robust server-side architectures using Laravel, Spring Boot, Node.js, and Express.js. Adept at database design with MySQL and performance optimization using Redis. Currently expanding into AI agent development, leveraging tools like Codex and Claude to build intelligent, automated workflows. Committed to writing clean, well-tested code and delivering solutions that drive real business impact.
 
 ### 🚀 Professional Profile
-- **Experience:** 5+ years in full stack software development
+- **Experience:** 4.5+ years in full stack software development
 - **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Sass
 - **Backend:** Laravel, Spring Boot, Hibernate, Node.js, Express.js
 - **Databases:** MySQL, Redis
